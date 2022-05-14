@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "ad",
+      "description": "ad",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Second",
+      "id": 2
+    },
+    {
+      "title": "devCho create",
+      "description": "devCho changed description",
+      "id": 3
+    },
+    {
+      "title": "devCho test1",
+      "description": "test1",
+      "userId": "100112084581882133241",
+      "id": 4
+    },
+    {
+      "title": "devCho test2",
+      "description": "test2",
+      "userId": "100112084581882133241",
+      "id": 5
+    }
+  ]
+}
